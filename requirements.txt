@@ -1,0 +1,8 @@
+# Python 依赖包列表
+# 本项目使用 Python 标准库，无需额外安装第三方包
+# Python 版本要求: >= 3.6
+
+# tkinter - GUI 框架（Python 标准库自带）
+# hashlib - MD5 加密（Python 标准库自带）
+# json - 数据存储（Python 标准库自带）
+# threading - 多线程（Python 标准库自带）

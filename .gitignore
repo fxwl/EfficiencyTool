@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project specific
+doc/
+.idea/
+.kiro/
+build/
+dist/
+*.spec
+src/config.json
+PROJECT_OVERVIEW.md
