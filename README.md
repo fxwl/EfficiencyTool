@@ -17,6 +17,8 @@
 
 ## 📢 项目背景
 
+> **本项目首发于 [LINUX DO](https://linux.do/) 社区** 🎉
+
 各位好，我又来发新作品了。
 
 之前发布过 **[[更新 1.1] 可以戒色的 NSFW 内容观看次数跟踪软件](https://github.com/fxwl/NSFW-Content-Engagement-Tracker)**，那次发帖后收到了不少关注。趁着这段时间有空，我又开发了一个新项目。
